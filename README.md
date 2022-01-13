@@ -17,4 +17,4 @@ https://www.mathworks.com/help/ros/ug/get-started-with-gazebo-and-a-simulated-tu
 
 rosbag dosyaları için https://drive.google.com/drive/folders/1-YzErBx3KbbkfDpBE4cNegJcuVGwhFts linkinden yararlanabilirsiniz.
 
-https://drive.google.com/drive/folders/1q3Qrs_drcGkOQzjsb-uRbp290fVshved?usp=sharing linkinden anlatıcı videoyu izleyerek neler yaptığını izleyebilirsiniz.  
+https://drive.google.com/drive/folders/1q3Qrs_drcGkOQzjsb-uRbp290fVshved?usp=sharing linkinden anlatıcı videoyu izleyerek neler yaptığını izleyebilirsiniz.  Ayrıca örnek rosbag dosyasına buradan erişebilirsiniz.
