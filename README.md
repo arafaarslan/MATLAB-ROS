@@ -14,3 +14,6 @@ Son örneği çalıştırmak için aşağıdaki linkte bulunan ROS yüklü Virtu
 Gazebo Office örneği virtual machine üzerinde masaüstünde bulunmaktadır. Bu örnek kullanılarak Gazebo.m dosyası çalıştırılabilir.
 
 https://www.mathworks.com/help/ros/ug/get-started-with-gazebo-and-a-simulated-turtlebot.html
+
+rosbag dosyaları için https://drive.google.com/drive/folders/1-YzErBx3KbbkfDpBE4cNegJcuVGwhFts linkindeb yararlanabilirsiniz.
+
