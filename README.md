@@ -15,5 +15,6 @@ Gazebo Office örneği virtual machine üzerinde masaüstünde bulunmaktadır. B
 
 https://www.mathworks.com/help/ros/ug/get-started-with-gazebo-and-a-simulated-turtlebot.html
 
-rosbag dosyaları için https://drive.google.com/drive/folders/1-YzErBx3KbbkfDpBE4cNegJcuVGwhFts linkindeb yararlanabilirsiniz.
+rosbag dosyaları için https://drive.google.com/drive/folders/1-YzErBx3KbbkfDpBE4cNegJcuVGwhFts linkinden yararlanabilirsiniz.
 
+https://drive.google.com/drive/folders/1q3Qrs_drcGkOQzjsb-uRbp290fVshved?usp=sharing linkinden anlatıcı videoyu izleyerek neler yaptığını izleyebilirsiniz.  
